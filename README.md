@@ -2,8 +2,6 @@
 
 I'm Owen, and this is where I keep anything vaguely useful that I have written in PowerShell.
 
-🌱 I’m currently learning Pester and Azure Devops and really enjoying the process.
-
 ⚡ Fun fact: I'm the author of a book published by Apress: [Understanding Microsoft Intune - 
 Deploying Applications Using PowerShell](https://link.springer.com/book/10.1007/978-1-4842-8850-4)
 
