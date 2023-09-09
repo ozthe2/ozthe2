@@ -1,0 +1,16 @@
+TOPIC
+    about_Oh.ModuleBuilder
+
+SHORT DESCRIPTION
+    ModuleBuilder streamlines PowerShell module creation, providing standardized structures, loaders, and documentation. Effortlessly enhance your module development workflow.
+
+LONG DESCRIPTION
+
+
+EXAMPLES
+
+
+KEYWORDS
+
+
+SEE ALSO
